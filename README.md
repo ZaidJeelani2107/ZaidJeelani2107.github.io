@@ -85,7 +85,7 @@ A lightweight WPF-based checksum calculator supporting multiple hashing algorith
 - Drag-and-drop interface
 - Supports multiple hashing algorithms
 
-👉 https://github.com/ZaidJeelani2107/ChecksumCalculator-WPF
+https://github.com/ZaidJeelani2107/ChecksumCalculator-WPF
 
 ---
 
