@@ -60,15 +60,17 @@ My work focuses on:
 - Owned PDF processing features including viewing, downloading, and annotations
 - Built scalable Azure Functions for large file handling
 - Developed PDF merge functionality preserving annotations
+- Developed and maintained full-stack features using .NET (C#) for backend services and React for frontend interfaces, ensuring seamless integration and performance.
 
 ### Software Engineer  
 **Vela Technologies India (Jan 2024 — Jun 2025)**
-- Built React + Redux applications with REST APIs
+- Built React + Redux applications with .NET REST APIs
 - Integrated SignalR for real-time communication
 - Improved system security by resolving vulnerabilities
 
 ### Associate Software Engineer  
 **Vela Technologies India (Nov 2022 — Dec 2023)**
+- Developed and maintained full-stack features using .NET (C#) for backend services and React for frontend interfaces, ensuring seamless integration and performance.
 - Implemented checksum validation for file integrity
 - Added structured logging to improve debugging efficiency
 - Refactored codebase using SOLID principles
