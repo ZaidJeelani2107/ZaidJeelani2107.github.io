@@ -87,6 +87,16 @@ A lightweight WPF-based checksum calculator supporting multiple hashing algorith
 
 https://github.com/ZaidJeelani2107/ChecksumCalculator-WPF
 
+### Scheduler app
+AI-powered calendar scheduling app with .NET MAUI and Gemini 2.5 Flash
+
+**Features:**
+- Schedule meetings in calender with the help of AI
+- Add/Edit your work preferences - days you work, timings.
+- Give a natural language prompt and AI checks your schedule and suggests appropriate time to hold your meetings
+
+https://github.com/ZaidJeelani2107/scheduler-app
+
 ---
 
 ## Contact
